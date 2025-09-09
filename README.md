@@ -8,7 +8,7 @@
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
 - 📧 : Contact me at [vocongnam172@gmail.com](mailto:vocongnam172@gmail.com)
 - ❤️ : I'm passionate about:
-  - 🔐 Artificial Intelligence
+  - 🧠 Artificial Intelligence
   - 🖥️ Website Developer
 ###  🌐 Socials:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
