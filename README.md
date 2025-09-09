@@ -5,7 +5,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Frontend+Developer"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
+- 👀 : Here is [my personal website]([https://namvo.vercel.app/])
 - 📧 : Contact me at [vocongnam172@gmail.com](mailto:vocongnam172@gmail.com)
 - ❤️ : I'm passionate about:
   - 🧠 Artificial Intelligence
@@ -85,7 +85,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namvo17">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namvo17&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namvo17&theme=dracula&cache_seconds=1800"/>
         </a>
       </td>
       <td>
