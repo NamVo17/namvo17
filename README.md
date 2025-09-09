@@ -28,13 +28,14 @@
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamVo17&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api?username=NamVo17)
 
 
-### 📈 User Statistics
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🏆 GitHub Trophies
+
+### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://github-profile-trophy.vercel.app/?username=NamVo17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
   <tbody>
     <tr>
