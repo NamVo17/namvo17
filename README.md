@@ -1,4 +1,19 @@
+### Hi there, I'm Vo Công Nam ✔️
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Frontend+Developer"></p>
+
+- 🇻🇳 : I'm from VietNam
+- 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
+- ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
+- ✍️ : I am the author of Monitoring series in [DevOpsEdu](https://devopsedu.vn/xay-dung-he-thong-giam-sat-toan-dien-thuc-te/)
+- 📧 : Contact me at [admin@crfnetwork.com](mailto:admin@crfnetwork.com)
+- ❤️ : I'm passionate about:
+  - 🔐 Cyber Security
+  - 🪐 Operating Systems (Windows & Linux)
+  - 🖥️ Website Developer
+  - 📝 Writeups and Documenting
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nam.vo.332753) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/v%C3%B5-c%C3%B4ng-nam-00a192326/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@namvo17_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vocongnam172@gmail.com) 
 
