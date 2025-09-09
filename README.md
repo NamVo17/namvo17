@@ -50,7 +50,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namvo17">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namvo17&theme=dracula"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namvo17&theme=dracula&cache_seconds=1800"/>
         </a>
       </td>
     </tr>
@@ -59,7 +59,7 @@
     <tr>
       <td>
         <a href="https://github-readme-activity-graph.vercel.app/graph?username=namvo17">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=namvo17&theme=dracula">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=namvo17&theme=dracula&cache_seconds=1800">
         </a>
       </td>
     </tr>
@@ -71,12 +71,12 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namvo17">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namvo17&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namvo17&theme=dracula&cache_seconds=1800"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namvo17&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namvo17&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namvo17&theme=dracula&cache_seconds=1800"/>
         </a>
       </th>
     </tr>
@@ -90,7 +90,7 @@
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namvo17">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namvo17&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namvo17&theme=dracula&cache_seconds=1800"/>
         </a>
       </td>
     </tr>
