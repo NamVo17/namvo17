@@ -8,10 +8,8 @@
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
 - 📧 : Contact me at [vocongnam172@gmail.com](mailto:vocongnam172@gmail.com)
 - ❤️ : I'm passionate about:
-  - 🔐 Cyber Security
-  - 🪐 Operating Systems (Windows & Linux)
+  - 🔐 Artificial Intelligence
   - 🖥️ Website Developer
-  - 📝 Writeups and Documenting
 ###  🌐 Socials:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,11 +27,74 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=NamVo17&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=NamVo17)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamVo17&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api?username=NamVo17)
 
+
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://github-profile-trophy.vercel.app/?username=NamVo17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=namvo17">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=namvo17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namvo17">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namvo17&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=namvo17">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=namvo17&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namvo17">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namvo17&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namvo17&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namvo17&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namvo17">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namvo17&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namvo17">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namvo17&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ### ✍️ Random Dev Quote
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
