@@ -1,4 +1,4 @@
-### Hi there, I'm Vo Công Nam ✔️
+### Hi there, I'm Võ Công Nam ✔️
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -6,9 +6,7 @@
 
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
-- ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
-- ✍️ : I am the author of Monitoring series in [DevOpsEdu](https://devopsedu.vn/xay-dung-he-thong-giam-sat-toan-dien-thuc-te/)
-- 📧 : Contact me at [admin@crfnetwork.com](mailto:admin@crfnetwork.com)
+- 📧 : Contact me at [vocongnam172@gmail.com](mailto:vocongnam172@gmail.com)
 - ❤️ : I'm passionate about:
   - 🔐 Cyber Security
   - 🪐 Operating Systems (Windows & Linux)
