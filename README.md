@@ -31,8 +31,7 @@
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=NamVo17&theme=onedark&no-frame=true)
-
+![](https://github-profile-trophy.vercel.app/?username=NamVo17&theme=onedark&no-frame=true&row=1&column=6&margin-w=8)
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
